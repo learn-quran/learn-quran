@@ -10,7 +10,6 @@ Not to take too much of your time, this whole project consisting of the Website,
 \**The audio data is limited*
 
 ## LICENSE 📝
-This project is Licensed under the GNU General Public License v3.0.
+This project is Licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0).
 
 ### Note: This README is WIP. Please expect more to come! 🔥
-
