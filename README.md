@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Learn Quran 👋</h1>
+<h1 align="center">Welcome to <a href="https://learn-quran.vercel.app">Learn Quran 👋</a></h1>
 
 <h4 align="center">Learn Quran is a hybrid platform for testing your knowledge in the Holy Quran!</h4>
 
